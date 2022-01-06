@@ -84,3 +84,9 @@ h2{
 .app-size{
     width: 20%;
 }
+.match-color{
+    color: black;
+}
+.extra-size{
+    font-size: 20px;
+}
