@@ -58,3 +58,17 @@ h2{
     background-size: 20%;
     background-position: left;
 }
+#right-banner{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 20%;
+    background-position: right;
+}
+.footer{
+    background-color: rgb(241, 48, 145);
+    text-align: center;
+    color: white;
+}
+.footer-font{
+    font-family: fantasy;
+}
