@@ -72,3 +72,9 @@ h2{
 .footer-font{
     font-family: fantasy;
 }
+#app-background{
+    background-image: url(images/shapes/shape-9.png);
+}
+.app-size{
+    width: 20%;
+}
