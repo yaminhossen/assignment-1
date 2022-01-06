@@ -52,3 +52,9 @@ h2{
 #back-color3{
     background-color: rgb(230, 159, 159);
 }
+#banner{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 20%;
+    background-position: left;
+}
