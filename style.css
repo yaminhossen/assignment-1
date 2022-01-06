@@ -19,7 +19,7 @@ h2{
     width: 100%;
 }
 .yellow-color{
-    color: hotpink;
+    color: orangered;
 }
 .button{
     text-decoration: none;
@@ -32,5 +32,23 @@ h2{
     text-align: center;
 }
 .images-size img{
-    width: 25%;
+    width: 35%;
+}
+.images-size{
+    box-shadow: white;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    background-color: rgb(241, 181, 241);
+    border-radius: 5%;
+}
+#back-color1{
+    background-color: rgb(228, 188, 228);
+}
+#back-color2{
+    background-color: rgb(209, 209, 171);
+}
+#back-color3{
+    background-color: rgb(230, 159, 159);
 }
